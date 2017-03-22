@@ -15,9 +15,9 @@ limitations under the License.
 -->
 
 <sync-adapter xmlns:android="http://schemas.android.com/apk/res/android"
-    android:accountType="de.degill.brickaccount"
+    android:accountType=""
     android:allowParallelSyncs="false"
-    android:contentAuthority="de.degill.brickaccount"
+    android:contentAuthority=""
     android:isAlwaysSyncable="true"
     android:supportsUploading="false"
     android:userVisible="false" />
