@@ -20,7 +20,7 @@
         //region SyncAdapter
         <provider
             android:name=".sync.helper.StubContentProvider"
-            android:authorities="de"
+            android:authorities="d"
             android:exported="false" />
 
         <service
