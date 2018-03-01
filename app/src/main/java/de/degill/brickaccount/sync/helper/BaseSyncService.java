@@ -5,7 +5,6 @@ import android.content.Intent;
 import android.os.IBinder;
 import de.degill.brickaccount.sync.SyncAdapter;
 
-/** Copyright © 2017 fluidmobile. All rights reserved. */
 public abstract class BaseSyncService extends Service {
 
     private static final Object S_SYNC_ADAPTER_LOCK = new Object();
